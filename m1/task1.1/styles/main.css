@@ -1,0 +1,13 @@
+h1, figcaption {
+	font-family: Helvetica, sans-serif;
+}
+
+.gallery {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+img {
+	width: 270px;
+}
